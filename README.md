@@ -28,7 +28,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![htmlcode](https://github.com/miteshp98/social-links-profile-main/assets/145320555/44c65929-a3fb-4ff0-9f6c-9f3de03e2c8e)
+
+![csscode](https://github.com/miteshp98/social-links-profile-main/assets/145320555/a70a9dd4-f030-4b0e-a4e9-3d1cef9515a2)
 
 
 **Note: Delete this note and the paragraphs above when you add your screenshot. If you prefer not to add a screenshot, feel free to remove this entire section.**
